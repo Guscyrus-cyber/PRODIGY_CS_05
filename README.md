@@ -8,3 +8,6 @@ This project is a simple Python-based packet sniffer designed for ethical use wi
     Payload Data (if available)
 
 This tool is ideal for learning purposes, troubleshooting network issues, and understanding packet-level communication.
+License: This project is licensed under the MIT License
+
+Sponsership: This project is sponsered by Prodigy InfoTech
